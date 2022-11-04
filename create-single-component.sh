@@ -4,7 +4,7 @@
 ZONE_ID="Z09093672XEPES8MS9NK1"
 SG_NAME="allow-all"
 #ENV="dev"
-############################
+###########################
 
 
 create_ec2() {
